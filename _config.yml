@@ -1,3 +1,37 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
 theme: jekyll-theme-tactile
-title: ruon's homepage
-description: Bookmark this to remember and recall!
+title: 'ruchika oniel's homepage'
+description: ' A graduate student that enjoys her science. My interests are in cellular heterogeniety, metabolic plasticity. Feel free to change my mind on why cell biology and genetics trumps studies on particle physics. Bookmark this to remember and recall!'
+url:              https://ruon001.github.io
+baseurl:          #'/blog'
+                  # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
+
+author:          Taylor Wright
+name:           'Taylor Wright'
+email:          onielruchika94@gmail.com
+
+
+paginate:         5
+paginate_path:    #'/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
+google_analytics:   UA-150989928-1
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Sidebar link settings
+sidebar_home_link:  false
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.

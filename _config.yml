@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
 title: 'ruchika oniel's homepage'
 description: ' A graduate student that enjoys her science. My interests are in cellular heterogeniety, metabolic plasticity. Feel free to change my mind on why cell biology and genetics trumps studies on particle physics. Bookmark this to remember and recall!'
 url:              https://ruon001.github.io

@@ -1,7 +1,3 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-
 # Setup
 theme: jekyll-theme-cayman
 title: 'ruchika oniel's homepage'

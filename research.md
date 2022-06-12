@@ -18,6 +18,6 @@ sidebar_sort_order: 2
 2022\. *Plos Pathogens*, April.   
 (Coordinated studies with Dr. Sunil Laxman, Ashutosh Tripathi and Amit Singh, Largely responsible for LC/MS studies and analysis)  
 
-### Works in Progress
+### Work in Progress
 Refolding protocol for fungal dehydrogenases.
 (Part of my current studies on Bioprocess optimization in Prof. Pramod Wangikar's lab, along with Snehal Ganjave)

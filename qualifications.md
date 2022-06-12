@@ -8,7 +8,7 @@ sidebar_sort_order: 5
 ### Bachelor's degree in Science
 From 2012 - 2015 — My specialization was in Biotechnology. I was also recognized for my steadfast commitment to learning and was a top ranker in my batch.  
 [degree]({{ sit.url}}/assets/bsc_degree_watermark.pdf)  
-[transcripts](<a href="/assets/bsc_degree_watermark.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>)
+[transcripts]({{ sit.url}}/assets/bsc_degree_watermark.html)
 
 ### Master's degree in Science
 From 2015 - 2017 — Specialization in Marine Biotechnology.

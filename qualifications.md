@@ -15,6 +15,7 @@ From 2015 - 2017 — Specialization in Marine Biotechnology.
 Post undergraduate, I answered a national entrance exam and was eligible for admissions into the Marine Biotechnology program of Goa University (one of two programs in the entire country). 
 I was once again, the top ranker of the Marine Biotechnology batch, and was awarded the Leo Mackenzie Gold medal for my hard work.
 In addition to the above, I also answered the national Graduate Aptitude Test Exax and scored 95 percentile. 
+
 [degree]({{ sit.url}}/assets/test3.html)  
 [transcripts]({{ sit.url}}/assets/test4.html)  
 [certificate]({{ sit.url}}/assets/test6.html)  

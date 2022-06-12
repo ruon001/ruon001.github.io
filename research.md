@@ -9,7 +9,7 @@ sidebar_sort_order: 2
 
 
 ### Publications
-[**Allosteric inhibition of MTHFR prevents futile SAM cycling and maintains nucleotide pools in one-carbon metabolism*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7681022/) 
+[**Allosteric inhibition of MTHFR prevents futile SAM cycling and maintains nucleotide pools in one-carbon metabolism**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7681022/) 
 2020\. *Journal of Biological Chemistry*, September. 
 (Coordinated this work with Dr. Sunil Laxman, Muskan Bhatia, and Anand Bachhawat. Largely responsible for mass spectrometry studies and analysis.)
 

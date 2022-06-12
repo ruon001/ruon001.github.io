@@ -1,6 +1,6 @@
 # Setup
 remote_theme: fongandrew/hydeout
-title:  "ruchika oniel's homepage"
+title:  "Ruchika ONiel's homepage"
 description:  ' A Budding biologist that enjoys her science !'
 url:  https://ruon001.github.io
 baseurl:          #'/blog'
@@ -10,8 +10,8 @@ baseurl:          #'/blog'
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 
-author:          Taylor Wright
-name:           'Taylor Wright'
+author:         Ruchika Oniel
+name:           Ruchika Oniel
 email:          onielruchika94@gmail.com
 
 
